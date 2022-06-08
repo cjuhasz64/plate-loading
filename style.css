@@ -1,0 +1,10 @@
+#main-wrapper {
+    background-color: red;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
